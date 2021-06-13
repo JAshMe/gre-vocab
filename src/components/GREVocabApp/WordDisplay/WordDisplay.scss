@@ -1,0 +1,20 @@
+
+.WordDisplay-toggleBtn {
+  padding-top: 2rem;
+
+
+  .arrow-up {
+    transform: rotate(180deg);
+    transition: transform 300ms;
+  }
+
+  .arrow-down {
+    transition: transform 300ms;
+  }
+
+
+  &:focus{
+    box-shadow: none;
+  }
+}
+

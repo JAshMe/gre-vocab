@@ -1,0 +1,524 @@
+[
+  {
+    "word": "quotidian",
+    "meaning": "very ordinary, everyday",
+    "desc": "Quotidian is a fancy way of saying \"daily\" or \"ordinary.\" Quotidian events are the everyday details of life.",
+    "sentence": "It affects quotidian lives of people."
+  },
+  {
+    "word": "slanderous",
+    "meaning": "irrelevant",
+    "desc": "",
+    "sentence": "That's quite slanderous remark I'd say."
+  },
+  {
+    "word": "subservient",
+    "meaning": "being servant, being submissive",
+    "desc": "Subservient means \"compliant,\" \"obedient,\" \"submissive,\" or having the qualities of a servant. Something that's subservient has been made useful, or put into the service of, something else.",
+    "sentence": "He was subservient to her because of her looks."
+  },
+  {
+    "word": "lackey",
+    "meaning": "subservient to others to gain their favour, sycophant",
+    "desc": "",
+    "sentence": "He was being too lackey in front of officer."
+  },
+  {
+    "word": "impecunious",
+    "meaning": "financially weak, very poor",
+    "desc": "",
+    "sentence": "He lead his whole life in impecunious situations."
+  },
+  {
+    "word": "serendipity",
+    "meaning": "a happy occurrence",
+    "desc": "If you find good things without looking for them, serendipity — unexpected good luck — has brought them to you.",
+    "sentence": "That trip was surely a serendipity."
+  },
+  {
+    "word": "vicissitude",
+    "meaning": "an unhappy occurrence",
+    "desc": "When you talk of the vicissitudes of life, you're referring to the difficult times that we all go through: sickness, job loss, and other unwelcome episodes.",
+    "sentence": "No one can escape vicissitudes of life."
+  },
+  {
+    "word": "listless",
+    "meaning": "lackadaisical,very inactive, apathetic",
+    "desc": "To be listless is to be lethargic, low spirited, and limp.",
+    "sentence": "That fever has made me listless in everything."
+  },
+  {
+    "word": "catharsis",
+    "meaning": "releasing of emotions",
+    "desc": "Use the noun catharsis to refer to the experience a person can have of releasing emotional tension and feeling refreshed afterwards.",
+    "sentence": "The dirge really was responsible for catharsis of daughter."
+  },
+  {
+    "word": "homily",
+    "meaning": "a religious lecture",
+    "desc": "A homily is a sermon or religious speech offering encouragement or moral correction.",
+    "sentence": "You are always welcome to the homily that we organize."
+  },
+  {
+    "word": "ominously",
+    "meaning": "with evil intent",
+    "desc": "Ominously is a word to describe how something threatening appears.",
+    "sentence": "She laughed ominously."
+  },
+  {
+    "word": "amortized",
+    "meaning": "paid of the debts",
+    "desc": "To amortize is to gradually pay off a debt. ",
+    "sentence": "After long time, finally he was able to amortize his loan."
+  },
+  {
+    "word": "inveigle",
+    "meaning": "To flatter someone in order to gain favour, be lackey",
+    "desc": "",
+    "sentence": "The salesman inveigled her to get his product sold."
+  },
+  {
+    "word": "presage",
+    "meaning": "harbinger, signalling to start of some bad event",
+    "desc": "A presage is a sign that something bad is about to happen",
+    "sentence": "The riots are presage to a big revolution."
+  },
+  {
+    "word": "simpatico",
+    "meaning": "being very compatible and agreeable",
+    "desc": "",
+    "sentence": "Those two make indeed a simpatico couple."
+  },
+  {
+    "word": "engender",
+    "meaning": "to cause something, give rise to",
+    "desc": "Engender is a fancy way of saying \"to make happen\".",
+    "sentence": "The partiality of teacher engendered censure amongst students."
+  },
+  {
+    "word": "exonerate",
+    "meaning": "exculpate, to get free from guilt",
+    "desc": "To exonerate someone is to declare him not guilty of criminal charges.",
+    "sentence": "The man was finally exonerated after a long going case."
+  },
+  {
+    "word": "satiate",
+    "meaning": "to satisfy",
+    "desc": "",
+    "sentence": "This small amount of money will not satiate this prodigal."
+  },
+  {
+    "word": "adulterate",
+    "meaning": "to mix something, make impure by adding a foreign or inferior substance",
+    "desc": "",
+    "sentence": "He was caught selling adulterated grains."
+  },
+  {
+    "word": "delineate",
+    "meaning": "demarcate, to outline, to mark something clearly",
+    "desc": "To delineate is to outline and define something in detail or with an actual marking of lines and boundaries.",
+    "sentence": "The director was able to delineate the plot easily."
+  },
+  {
+    "word": "censure",
+    "meaning": "strong disapproval, harsh criticism",
+    "desc": "Censure is a noun referring to very strong criticism; the verb means to criticize very strongly.",
+    "sentence": "The public censured the new prime minister after his debunked scam."
+  },
+  {
+    "word": "plummet",
+    "meaning": "to drop drastically",
+    "desc": "The verb plummet means \"to drop sharply\"",
+    "sentence": "The prices of stocks plummeted after the death of the CEO."
+  },
+  {
+    "word": "emulate",
+    "meaning": "to imitate, to copy",
+    "desc": "When you emulate someone, you imitate them, especially with the idea of matching their success.",
+    "sentence": "You might emulate his clothing style, but you can't emulate his intelligence."
+  },
+  {
+    "word": "abscond",
+    "meaning": "to run in order to not get caught, to flee",
+    "desc": "Abscond is to escape, often taking something along.",
+    "sentence": "The king absconded the kingdom overnight after general fomented the rebellion."
+  },
+  {
+    "word": "dissemble",
+    "meaning": "make believe with intent to deceive, behave unnaturally",
+    "desc": "To dissemble is to hide under a false appearance, to deceive.",
+    "sentence": "When confronted about their human rights record, the Chinese government typically dissembles."
+  },
+  {
+    "word": "deride",
+    "meaning": "to laugh at in contempt, to mock",
+    "desc": "The verb deride means to speak to someone with contempt or show a low opinion of someone or something.",
+    "sentence": "The sister used to deride his brother for his failures until one day when he became successful."
+  },
+  {
+    "word": "propitiate",
+    "meaning": "to appease, gain favor of, conciliate",
+    "desc": "Propitiate means to appease someone or make them happy by doing a particular thing.",
+    "sentence": "The company tried to propitiate the client after the blunder."
+  },
+  {
+    "word": "appease",
+    "meaning": "to pacify, to placate",
+    "desc": "",
+    "sentence": "The devotee tried to appease the goddess after that sin."
+  },
+  {
+    "word": "laud",
+    "meaning": "to applaud, to praise",
+    "desc": "",
+    "sentence": "The audience lauded his performance with lots of claps."
+  },
+  {
+    "word": "misanthrope",
+    "meaning": "one who despises humanity",
+    "desc": "A misanthrope is a person who hates or mistrusts other people.",
+    "sentence": "Hitler was considered quite a misanthrope."
+  },
+  {
+    "word": "hedonism",
+    "meaning": "to give most importance to pleasures",
+    "desc": "Strictly speaking, hedonism is the belief that pursuing pleasure leads to the greatest ethical good.",
+    "sentence": "His art was mainly inspired from hedonism"
+  },
+  {
+    "word": "elegy",
+    "meaning": "a poem to praise or lament dead",
+    "desc": "An elegy is a sad poem, usually written to praise and express sorrow for someone who is dead.",
+    "sentence": "The elegy lead to the daughter's catharsis."
+  },
+  {
+    "word": "dilettante",
+    "meaning": "showing superficial interest in something but not actually knowing about it",
+    "desc": "A dilettante is an amateur, often one who pretends to be very knowledgeable.",
+    "sentence": "He was being a dilettante in music just to please her."
+  },
+  {
+    "word": "chicanery",
+    "meaning": "trickery through deception, artful, to artifice",
+    "desc": "The tricky kind of deceit and manipulation is called chicanery.",
+    "sentence": "The couple fell for the chicanery of the salesman then later they regretted it."
+  },
+  {
+    "word": "magnanimity",
+    "meaning": "generosity, forgiving nature, munificence",
+    "desc": "Magnanimous behavior is noble, generous, or unselfish, and to exhibit magnanimity is to be this way.",
+    "sentence": "The king was known for his magnanimity."
+  },
+  {
+    "word": "calumny",
+    "meaning": "false statement to defame someone",
+    "desc": "Use the noun calumny to characterize verbal attacks that are meant to destroy reputations or friendships.",
+    "sentence": "His ex spread lot of calumnies about him just to make his life miserable."
+  },
+  {
+    "word": "opprobrium",
+    "meaning": "state of extreme dishonor (usually from public), obloquy, stigma",
+    "desc": "If you go against or oppose what's good, you might earn opprobrium.",
+    "sentence": "The company tried to placate the client after one of the manager put them into opprobrium."
+  },
+  {
+    "word": "anachronism",
+    "meaning": "an incorrect chronology, something out of its time",
+    "desc": "An anachronism is something that doesn't fit its time period.",
+    "sentence": "Considering the history being convoluted, its fine to have slight anachronism."
+  },
+  {
+    "word": "rhetoric",
+    "meaning": "a persuasive speech, high-flown style of speaking",
+    "desc": "Rhetoric is speaking or writing that's intended to persuade.",
+    "sentence": "The crowd was almost convinced by his lucid rhetoric."
+  },
+  {
+    "word": "occult",
+    "meaning": "pertaining to supernatural things",
+    "desc": "",
+    "sentence": "My brother is always interested in these kind of occult practices."
+  },
+  {
+    "word": "veracity",
+    "meaning": "honesty, integrity, credibility",
+    "desc": "",
+    "sentence": "Given his impeccable record, how can you have audacity to doubt his veracity."
+  },
+  {
+    "word": "canon",
+    "meaning": "regulation or dogma established by church; accepted rule, principal or works in a particular field",
+    "desc": "Canon (one “n”) refers to a collection of rules or texts that are considered to be authoritative.",
+    "sentence": "He truly abides by the canon of Indian Classical music."
+  },
+  {
+    "word": "chauvinist",
+    "meaning": "one who considers one gender above other",
+    "desc": "",
+    "sentence": "Being a male chauvinistic, he always condescended women."
+  },
+  {
+    "word": "pith",
+    "meaning": "core of something, concise and full of meaning",
+    "desc": "A pithy phrase or statement is brief but full of substance and meaning.",
+    "sentence": "The conclusions need to be pithy."
+  },
+  {
+    "word": "estimable",
+    "meaning": "worth giving respect, capable of being estimated",
+    "desc": "Something or someone estimable is worthy of respect and admiration.",
+    "sentence": "Though much more younger than his opponent, he was a estimable player."
+  },
+  {
+    "word": "perfunctory",
+    "meaning": "a formality, daily routine, apathetic or unenthusiastic, careless",
+    "desc": "Many of our everyday greetings are perfunctory. For example, when we say \"Hello\" and \"How are you?\", we usually do so out of habit.",
+    "sentence": "I can't rely on his perfunctory search for travel places. He is never interested in going out."
+  },
+  {
+    "word": "prodigious",
+    "meaning": "amazing or wondrous, resembling prodigy, extraordinary in size",
+    "desc": "",
+    "sentence": "He surely would like to befriend that prodigious kid."
+  },
+  {
+    "word": "luminous",
+    "meaning": "intellectually sound, shining, bright, well-lit, clear",
+    "desc": "",
+    "sentence": "She was amused by his luminous nature."
+  },
+  {
+    "word": "credulous",
+    "meaning": "gullible, believing something easily",
+    "desc": "",
+    "sentence": "The freshers were too credulous to believe that the seniors were actually going to help them."
+  },
+  {
+    "word": "desultory",
+    "meaning": "lacking a plan, enthusiasm, not connected to main subject, haphazard",
+    "desc": "If you lack a definite plan or purpose and flit from one thing to another, your actions are desultory.",
+    "sentence": "You can't crack any exam if you study in such desultory manner."
+  },
+  {
+    "word": "inimical",
+    "meaning": "harmful, pernicious, anodyne, unfriendly",
+    "desc": "",
+    "sentence": "Her cousins act in very inimical way."
+  },
+  {
+    "word": "supplant",
+    "meaning": "to replace something with other (usually by scheming or force), supersede",
+    "desc": "Supplant means to take the place of.",
+    "sentence": "The web series have supplanted the movies in today's times."
+  },
+  {
+    "word": "abjure",
+    "meaning": "formally rescind, to disavow a formerly held belief, recant, retract",
+    "desc": "Abjure is a more dramatic way to declare your rejection of something you once felt or believed.",
+    "sentence": "Surprisingly, the witness of the case abjured his statement in the next hearing."
+  },
+  {
+    "word": "elicit",
+    "meaning": "to draw out, put forth, evoke, provoke",
+    "desc": "When you elicit, you're bringing out a response of some sort. A good comedian elicits a lot of laughs.",
+    "sentence": "He clearly elicited the onerous consequences of the decision."
+  },
+  {
+    "word": "abstain",
+    "meaning": "to restrict yourself (mostly from unhealthy or bad things), refrain",
+    "desc": "If you abstain from something, you restrain yourself from consuming it.",
+    "sentence": "I was so perturbed by that guy's condition that I have totally abstained from smoking."
+  },
+  {
+    "word": "reproach",
+    "meaning": "to blame someone, to scold, upbraid, bring disgrace",
+    "desc": "Reproach means to mildly criticize.",
+    "sentence": "The old man always reproached his son for his misfortunes."
+  },
+  {
+    "word": "alleviate",
+    "meaning": "to undermine, weaken, assuage",
+    "desc": "",
+    "sentence": "The doctor reassured that though the drug has mild soporific effects, but it will alleviate the pain."
+  },
+  {
+    "word": "obviate",
+    "meaning": "to prevent beforehand, to get rid off",
+    "desc": "To obviate means to eliminate the need for something or to prevent something from happening.",
+    "sentence": "The bonfire obviated any risks of wild animals attacking us in the jungle."
+  },
+  {
+    "word": "repudiate",
+    "meaning": "to refuse to pay, to reject as untrue, to disown",
+    "desc": "To repudiate something is to reject it, or to refuse to accept or support it.",
+    "sentence": "The insurance company repudiated my medical claim as it was not abiding by their terms and conditions."
+  },
+  {
+    "word": "substantiate",
+    "meaning": "to establish by proof, corroborate",
+    "desc": "To substantiate is to give support to a claim.",
+    "sentence": "His works clearly substantiated Newton's Laws of Motion."
+  },
+  {
+    "word": "dupe",
+    "meaning": "to deceive using trickery",
+    "desc": "",
+    "sentence": "The salesman duped her into buying his product."
+  },
+  {
+    "word": "permeate",
+    "meaning": "to penetrate, to pass through every part of",
+    "desc": "",
+    "sentence": "The air was occluded from one side of room, but could easily permeate from other side."
+  },
+  {
+    "word": "oscillate",
+    "meaning": "move back and forth, vacillate, indecisiveness",
+    "desc": "",
+    "sentence": "He oscillated between thoughts of taking Science or Commerce as major in school."
+  },
+  {
+    "word": "irascible",
+    "meaning": "Something that quickly arouses anger, that has anger in it",
+    "desc": "",
+    "sentence": "He responded with such an irascible comment!"
+  },
+  {
+    "word": "verbose",
+    "meaning": "something that is very wordy, lengthy",
+    "desc": "If you're verbose, you use far more words than you need to.",
+    "sentence": "I don't like the author's verbose description of the character."
+  },
+  {
+    "word": "timorous",
+    "meaning": "afraid, tremulous, full of fear, timid",
+    "desc": "A timorous person is timid or shy, like your timorous friend who likes to hang out with close pals but gets nervous around big groups of new people.",
+    "sentence": "That dog is very timorous because he always runs when he sees any human coming near him."
+  },
+  {
+    "word": "archaic",
+    "meaning": "historical, old, antiquated",
+    "desc": "",
+    "sentence": "We can't apply archaic solutions to modern problems."
+  },
+  {
+    "word": "bombastic",
+    "meaning": "given exaggerated importance, pretentious",
+    "desc": "",
+    "sentence": "People were provoked by his bombastic speech on radicals."
+  },
+  {
+    "word": "pedantic",
+    "meaning": "showing off your scholar skills, meticulous",
+    "desc": "",
+    "sentence": "Students were apathetic to his pedantic lectures."
+  },
+  {
+    "word": "presumptuous",
+    "meaning": "assuming things, being impertinently bold",
+    "desc": "When someone takes liberties, doing things too boldly, you can describe them with the adjective presumptuous.",
+    "sentence": "She was fed up with his presumptuous gestures."
+  },
+  {
+    "word": "bucolic",
+    "meaning": "relating to typical rural life, pastoral",
+    "desc": "",
+    "sentence": "Though he shifted to a new city, his behaviour was still bucolic."
+  },
+  {
+    "word": "quotidian",
+    "meaning": "very ordinary, relating to common people",
+    "desc": "",
+    "sentence": "His art was not at all quotidian."
+  },
+  {
+    "word": "germane",
+    "meaning": "relevant, related to context, significant",
+    "desc": "",
+    "sentence": "You can't shut him up! He is providing germane insights."
+  },
+  {
+    "word": "fallacious",
+    "meaning": "erroneous, having errors",
+    "desc": "",
+    "sentence": "His theory is fallacious."
+  },
+  {
+    "word": "gauche",
+    "meaning": "lacking social skills, ill mannered",
+    "desc": "",
+    "sentence": "Its very gauche to laugh on someone's funeral."
+  },
+  {
+    "word": "obstinate",
+    "meaning": "persistent, adamant, intransigent, inflexible",
+    "desc": "",
+    "sentence": "He is very obstinate in not inviting his mother on his wedding."
+  },
+  {
+    "word": "inveterate",
+    "meaning": "properly set up in a particular field, being veteran ",
+    "desc": "",
+    "sentence": "He is an inveterate gambler."
+  },
+  {
+    "word": "dramaturgy",
+    "meaning": "art of writing and producing plays",
+    "desc": "",
+    "sentence": "His dramaturgy is commendable"
+  },
+  {
+    "word": "contrivance",
+    "meaning": "gadget useful for a particular job, a deceitful scheme contrived to evade",
+    "desc": "",
+    "sentence": "his testimony was just a contrivance to throw us off the track"
+  },
+  {
+    "word": "histrionics",
+    "meaning": "theatrical performance",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "sardonic",
+    "meaning": "scornful/mocking, disdainfully humorous",
+    "desc": "",
+    "sentence": "His sardonic laughter was rather irascible."
+  },
+  {
+    "word": "deleterious",
+    "meaning": "harmful to living beings, pernicious",
+    "desc": "",
+    "sentence": "These kind of fruits are truly deleterious for us."
+  },
+  {
+    "word": "mote",
+    "meaning": "a tiny piece of anything",
+    "desc": "",
+    "sentence": ""
+  },
+  {
+    "word": "covey",
+    "meaning": "collection of people",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "salvo",
+    "meaning": "simultaneous discharge of firearms, sudden outburst",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "sanguineous",
+    "meaning": "optimistic cheerful, accompanied by bloodshed, slaughterous",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "vociferous",
+    "meaning": "conspicuously and offensively loud",
+    "desc": "",
+    "sentence": "He was speaking so vociferously, that whole restaurant started gazing him."
+  }
+]

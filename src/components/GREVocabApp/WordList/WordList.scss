@@ -1,0 +1,16 @@
+.WordList-wrapper
+{
+  height: 65vh;
+
+  .scrollbar-container
+  {
+    padding: 0 !important;
+  }
+
+  .WordList-listItem{
+    padding: 0;
+    &:hover{
+      background-color: beige;
+    }
+  }
+}

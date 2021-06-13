@@ -1,0 +1,794 @@
+[
+  {
+    "word": "skittish",
+    "meaning": "nervously excited, unpredictable",
+    "desc": "Your boss who's skittish about giving you a raise and avoids discussing it",
+    "sentence": "I became very skittish when I had to visit a haunted house."
+  },
+  {
+    "word": "cajole",
+    "meaning": "To persuade (mostly by flattery or urging)",
+    "desc": "To cajole someone is to persuade them by using insincere compliments or promises. If you say \"Please, pretty-please, I'll be your best friend,\" when asking for a stick of gum, you are cajoling the gum holder.",
+    "sentence": "It's very difficult to cajole my boss because of his stoic nature."
+  },
+  {
+    "word": "tepid",
+    "meaning": "lukewarm",
+    "desc": "Tepid means lukewarm or half-hearted.",
+    "sentence": "The audience showed tepid interest in the performance, which demoralised the performer."
+  },
+  {
+    "word": "deprecated",
+    "meaning": "to deplore, criticize, belittle",
+    "desc": "To deprecate is to show disapproval or to make someone feel unimportant by speaking to them disrespectfully, like seniors who deprecate younger students just for fun.",
+    "sentence": "I hate that teacher, she constantly deprecates me."
+  },
+  {
+    "word": "indolence",
+    "meaning": "being lazy or inactive due to dislike of work",
+    "desc": "If your boss catches you sleeping with your head on your desk, she's likely to comment on your indolence. Indolence is another word for laziness.",
+    "sentence": "I generally get indolent while studying."
+  },
+  {
+    "word": "berserk",
+    "meaning": "chaotic, unrestrained, violent, rampage",
+    "desc": "Berserk is another way of saying deranged, destructively violent, or unrestrained — like a wailing toddler ravaging the playroom when he's hopped up on sugar and long overdue for a nap.",
+    "sentence": "The people went berserk after minister ended his speech."
+  },
+  {
+    "word": "flimsy",
+    "meaning": "very fragile, thin and weak",
+    "desc": "",
+    "sentence": "Take care not to break that flimsy window."
+  },
+  {
+    "word": "distension",
+    "meaning": "physical swelling",
+    "desc": "",
+    "sentence": "The accident caused lots of distension in my legs."
+  },
+  {
+    "word": "expatiation",
+    "meaning": "detailed discussion about something",
+    "desc": "",
+    "sentence": "The professor always starts expatiating even on a simple question."
+  },
+  {
+    "word": "repertory",
+    "meaning": "collection of information of similar nature (like an artists works)",
+    "desc": "A repertory is a collection of pieces that are ready to be performed, like a theater's repertory of plays or a singer's repertory of songs.",
+    "sentence": "The library is best place to find that author's repertory."
+  },
+  {
+    "word": "truism",
+    "meaning": "obvious truth",
+    "desc": "Sometimes truisms can be mistaken for factual statements. In fact, despite their seeming obviousness, they are usually opinions.",
+    "sentence": "\"What you sow is you reap\" - is a good truism."
+  },
+  {
+    "word": "terseness",
+    "meaning": "very concise and crisp or pithy style of expression",
+    "desc": "",
+    "sentence": "That author has good skill of terseness when it comes to description of a character."
+  },
+  {
+    "word": "protean",
+    "meaning": "able to change shape, variable",
+    "desc": "",
+    "sentence": "His teaching styles are very protean, he tries new way everytime."
+  },
+  {
+    "word": "arcadian",
+    "meaning": "ideal country life, bucolic, characteristic of rural area",
+    "desc": "",
+    "sentence": "He is always amenable for having an arcadian life."
+  },
+  {
+    "word": "prudish",
+    "meaning": "exaggeratedly proper, priggish, meticulous",
+    "desc": "",
+    "sentence": "He is always a prudish person, that's why he is generally alone."
+  },
+  {
+    "word": "dissent",
+    "meaning": "having difference in opinions",
+    "desc": "",
+    "sentence": "Teacher tried to solve the dissent between 2 students."
+  },
+  {
+    "word": "regressive",
+    "meaning": "something that restricts progress, brings us backward",
+    "desc": "Its opposite of Progressive.",
+    "sentence": "Not giving women their right to vote is a regressive action."
+  },
+  {
+    "word": "tout",
+    "meaning": "to brag, advertise in positive terms, to show off",
+    "desc": "To tout means to praise, boast, or brag about.",
+    "sentence": "The parents touted that their child could sing very nice."
+  },
+  {
+    "word": "whet",
+    "meaning": "to sharpen",
+    "desc": "To whet is to sharpen. You could whet a knife's blade with a whetting stone, or you could whet your appetite by having some Doritos.",
+    "sentence": "He whetted my curiosity by showing that picture."
+  },
+  {
+    "word": "torpid",
+    "meaning": "very lazy, inactive, in torpor",
+    "desc": "It actually describes something slow or even inactive",
+    "sentence": "That student is always torpid in the class."
+  },
+  {
+    "word": "paucity",
+    "meaning": "scarcity, dearth",
+    "desc": "",
+    "sentence": "The people nowadays are fighting over paucity of oxygen."
+  },
+  {
+    "word": "dearth",
+    "meaning": "scarcity, paucity",
+    "desc": "",
+    "sentence": "People are feeling dearth of vaccines in this pandemic."
+  },
+  {
+    "word": "overt",
+    "meaning": "easily noticeable",
+    "desc": "Opposite of covert",
+    "sentence": "You can't escape from those overt lies."
+  },
+  {
+    "word": "obtrusive",
+    "meaning": "easily noticeable",
+    "desc": "",
+    "sentence": "I can't miss that obtrusive lining of snow."
+  },
+  {
+    "word": "priggish",
+    "meaning": "prudish, extraneously proper",
+    "desc": "",
+    "sentence": "Don't be so priggish, live life as it goes."
+  },
+  {
+    "word": "punctilious",
+    "meaning": "meticulous, fastidious",
+    "desc": "A punctilious person pays attention to details. Are you always precisely on time? Is your room perfectly neat? Do you never forget a birthday or a library book's due date? Then you are one of the punctilious people.",
+    "sentence": "You can't expect everyone to be punctilious and work till perfection."
+  },
+  {
+    "word": "redoubtable",
+    "meaning": "fearsome, deserving respect",
+    "desc": "If your grandmother worked tirelessly to raise four kids on her own and started her own taxi cab business and to this day, keeps all of her cabbies in line, she is without a doubt redoubtable.",
+    "sentence": "That warrior is indeed redoubtable."
+  },
+  {
+    "word": "subverted",
+    "meaning": "destroy completely, overthrow",
+    "desc": "",
+    "sentence": "That deprecation totally subverted his self confidence."
+  },
+  {
+    "word": "voluble",
+    "meaning": "using lot of words, garrulous, chatty, prolix",
+    "desc": "Voluble describes someone who talks a lot, like your aunt who can’t stop telling you to cut your hair or a political candidate who makes twenty speeches on the day before the election.",
+    "sentence": "She is a very voluble person as she doesn't leave a single chance to talk."
+  },
+  {
+    "word": "partisan",
+    "meaning": "devoted to particular cause, zealot",
+    "desc": "",
+    "sentence": "Some partisan proclaim that feminism should be top priority in constitution."
+  },
+  {
+    "word": "wry",
+    "meaning": "mocking, sarcastic sense of humour, bent to one side",
+    "desc": "",
+    "sentence": "I always like him because of his wry jokes."
+  },
+  {
+    "word": "prurient",
+    "meaning": "characterised by lust, very explicit",
+    "desc": "Something is prurient if it focuses attention on sex not in an artistic way or to teach something, but purely to appeal to your baser instincts.",
+    "sentence": "That movie has lot of prurient scenes. You'd want to watch them alone."
+  },
+  {
+    "word": "puckish",
+    "meaning": "naughtily or annoyingly playful",
+    "desc": "Someone who's puckish is up to a little trouble. Your puckish friend might play practical jokes on you, but they're more silly than mean spirited.",
+    "sentence": "That guy is so puckish, he plays pranks on everyone."
+  },
+  {
+    "word": "triage",
+    "meaning": "to categorise on basis of priority or on basis of urgency of need",
+    "desc": "Grouping patients based on the severity of their injuries and the likelihood of their survival is called triage. ",
+    "sentence": "One of the engineers on the base kept bringing Vietnamese children into triage who needed treatment."
+  },
+  {
+    "word": "idiosyncratically",
+    "meaning": "peculiar to a particular individual",
+    "desc": "",
+    "sentence": "That person idiosyncratically judges others."
+  },
+  {
+    "word": "doggedly",
+    "meaning": "with obstinate determination, tenaciously",
+    "desc": "",
+    "sentence": "He doggedly chased the thief and finally caught him."
+  },
+  {
+    "word": "tenacious",
+    "meaning": "very firm determination, persistent",
+    "desc": "",
+    "sentence": "He was studying tenaciously day and night toh crack the exam."
+  },
+  {
+    "word": "putative",
+    "meaning": "unofficial but considered true by people",
+    "desc": "Putative means to be known as something by reputation, or assumed to be something, or generally accepted.",
+    "sentence": "He was indeed putative manager of company."
+  },
+  {
+    "word": "conjectural",
+    "meaning": "considered true without any proofs",
+    "desc": " It's a word to use when you are not sure of something and have to \"guess or surmise.\"",
+    "sentence": "Majority of people believe in conjectural statements, which have no grounds but they feel good to believe."
+  },
+  {
+    "word": "sobriety",
+    "meaning": "being sober, serious and abstaining from excess",
+    "desc": "",
+    "sentence": "He had to keep up his sobriety in the party, in order to perform."
+  },
+  {
+    "word": "vivacity",
+    "meaning": "very high spirited, animated, very lively and joyful",
+    "desc": "",
+    "sentence": "I always miss the vivacity we used to have when we were child."
+  },
+  {
+    "word": "poignant",
+    "meaning": "something that touches you, tragic",
+    "desc": "",
+    "sentence": "The movie was so poignant, I couldn't help myself from crying."
+  },
+  {
+    "word": "lackluster",
+    "meaning": "lacking liveliness, lacking cheerfulness, dull",
+    "desc": "",
+    "sentence": "The guy is truly a lackluster in the group."
+  },
+  {
+    "word": "mirthful",
+    "meaning": "ebullient, unrestrained joyous, exhilarated, blithe",
+    "desc": "",
+    "sentence": "I was very mirthful when I saw my sister coming to meet me."
+  },
+  {
+    "word": "benign",
+    "meaning": "gentle, kind, harmless, innocuous",
+    "desc": "Someone or something that is benign is gentle, kind, mild, or unharmful: a benign soul wouldn't hurt a fly.",
+    "sentence": "It was totally a benign comment."
+  },
+  {
+    "word": "effusive",
+    "meaning": "overly excited, gushing with enthusiasm",
+    "desc": "",
+    "sentence": "His parents become effusive the moment we start talking about their child's achievements."
+  },
+  {
+    "word": "placid",
+    "meaning": "pacific, very calm",
+    "desc": "",
+    "sentence": "I love the placid environment in the spa."
+  },
+  {
+    "word": "blithe",
+    "meaning": "lacking in concern, light hearted, carefree",
+    "desc": "",
+    "sentence": "His blithe nature leaves him far from understanding other's concerns."
+  },
+  {
+    "word": "convivial",
+    "meaning": "a good time with friends or other's company",
+    "desc": "",
+    "sentence": "I spent a convivial time on Sunday."
+  },
+  {
+    "word": "farcical",
+    "meaning": "comic, humorous, pun intended",
+    "desc": "",
+    "sentence": "Children created a farcical situation and everyone was laughing."
+  },
+  {
+    "word": "labile",
+    "meaning": "unstable, liable to change",
+    "desc": "",
+    "sentence": "I'm afraid of his mercurial and labile nature."
+  },
+  {
+    "word": "fetid",
+    "meaning": "stinky, smelling very bad",
+    "desc": "",
+    "sentence": "The clothes turned fetid when I left them in that locker for months."
+  },
+  {
+    "word": "wizened",
+    "meaning": "old & withered",
+    "desc": "",
+    "sentence": "That wizened man was moving with great effort."
+  },
+  {
+    "word": "boorish",
+    "meaning": "ill mannered or having sloppy appearance",
+    "desc": "An adjective used for people with bad manners and a sloppy appearance.",
+    "sentence": "My brother hasn't bathed for 3 days and went to the party. He is very boorish."
+  },
+  {
+    "word": "defiled",
+    "meaning": "making something impure, morally blemish, make something dirty or polluted",
+    "desc": "When you defile something, you make it dirty or make it lose its purity.",
+    "sentence": "These people have defiled the natural beauty of this place."
+  },
+  {
+    "word": "ignominious",
+    "meaning": "disgraceful, opprobrium, stigmatized, obloquy",
+    "desc": "",
+    "sentence": "No wonder the guy was stoned after that ignominious speech about our freedom fighters."
+  },
+  {
+    "word": "unseemly",
+    "meaning": "Not appropriate, indecent, not apposite",
+    "desc": "Something that is inappropriate or unacceptable behavior is unseemly. ",
+    "sentence": "He was talking to me in rather unseemly tone! Why does he have to be so imperious every time?"
+  },
+  {
+    "word": "wallowing",
+    "meaning": "Being indulged in something positive, being ecstatic",
+    "desc": "",
+    "sentence": "After his enormous triumph, he was wallowing in happiness."
+  },
+  {
+    "word": "mired",
+    "meaning": "stuck or entangled in something, literally means to get stuck in swamp",
+    "desc": "",
+    "sentence": "I hate when I get mired into his pity party."
+  },
+  {
+    "word": "bogged",
+    "meaning": "stuck in swampy ground, metaphorically stuck in some bad situation",
+    "desc": "",
+    "sentence": "I was bogged down in that professor's lecture, which I hate."
+  },
+  {
+    "word": "besotted",
+    "meaning": "infatuated, obsessed, intoxicated",
+    "desc": "",
+    "sentence": "He came home besotted and started acting lasciviously."
+  },
+  {
+    "word": "lobbying",
+    "meaning": "convincing or influencing people about certain cause (usually decisions of government)",
+    "desc": "",
+    "sentence": "The moment he joined the company, he started lobbying about decreasing the working hours."
+  },
+  {
+    "word": "instigate",
+    "meaning": "to cause, to engender, to provoke",
+    "desc": "When you instigate something, you start it, but the word carries conflict with it.",
+    "sentence": "The dictator's egregious decision instigated nationwide incendiary."
+  },
+  {
+    "word": "myriad",
+    "meaning": "copious, in abundance, profuse, plethora",
+    "desc": "A myriad is a lot of something.",
+    "sentence": "Working in big MNCs has an advantage in terms of myriad resources that you get to learn."
+  },
+  {
+    "word": "vituperation",
+    "meaning": "very abusive language used to blame or express censure",
+    "desc": "Vituperation is a noun that refers to critical, abusive language. It's always a messy scene when a political debate slips into vituperation.",
+    "sentence": "The boorishness of employee engendered a vituperation from his boss."
+  },
+  {
+    "word": "quips",
+    "meaning": "funny witty comment, comment made to laugh",
+    "desc": "A quip — a short, witty comment — can be pleasant, wise, or sarcastic, but usually carries an element of humor.",
+    "sentence": "I like that guy's quips. They are very farcical."
+  },
+  {
+    "word": "witticism",
+    "meaning": "a quip, funny message to evoke laughter",
+    "desc": "",
+    "sentence": "We all laughed on her witticisms."
+  },
+  {
+    "word": "zeal",
+    "meaning": "eagerness to do something, having enthusiasm",
+    "desc": "",
+    "sentence": "I admire zeal of the new joiner in the project."
+  },
+  {
+    "word": "conspicuous",
+    "meaning": "very obvious, without concealment",
+    "desc": "",
+    "sentence": "He couldn't pull off the prank because of his conspicuous smile."
+  },
+  {
+    "word": "antics",
+    "meaning": "prank to the extreme, act done for fun and amusement",
+    "desc": "An antic is a prank to the extreme. It’s outrageous, but it’s usually meant to be funny.",
+    "sentence": "When the senior class steals the principal’s car and manages to get it inside the gym, the antic may be condemned by the school, but everyone else probably thinks it’s hilarious."
+  },
+  {
+    "word": "flout",
+    "meaning": "mock something, not obey or disregard",
+    "desc": "",
+    "sentence": "The students brazenly flouted the rules of not talking in library."
+  },
+  {
+    "word": "brazen",
+    "meaning": "unashamed, unrestrained by morality and propriety",
+    "desc": "",
+    "sentence": "She brazenly ignored the no parking sign and parked her car there."
+  },
+  {
+    "word": "anarchist",
+    "meaning": "who doesn't believe in government, who wants to abolish government",
+    "desc": "Anarchists prefer a stateless society and distrust ruling powers.",
+    "sentence": "The deplorable decision of govt. fomented the public to be in favour of anarchists."
+  },
+  {
+    "word": "acculturation",
+    "meaning": "try to follow different cultures",
+    "desc": "It means adopting the ways of a culture that isn't yours.",
+    "sentence": "Metro cities have enabled acculturation amongst people."
+  },
+  {
+    "word": "assimilation",
+    "meaning": "acculturation, absorb something fully",
+    "desc": "Assimilation describes the act of taking something in and absorbing it fully.",
+    "sentence": "Students generally assimilate cultures of other students in them."
+  },
+  {
+    "word": "spurious",
+    "meaning": "specious, something which is plausible but false",
+    "desc": " Spurious statements often are lies, just as a spurious coin is a counterfeit coin — a fake.",
+    "sentence": "Ignore the spurious accuracy of quoted number."
+  },
+  {
+    "word": "culpable",
+    "meaning": "blameworthy, responsible for something bad",
+    "desc": "Culpable means to be at fault.",
+    "sentence": "I think his father is culpable for his prodigal behaviour."
+  },
+  {
+    "word": "stipulate",
+    "meaning": "specify as an requirement or condition",
+    "desc": "To stipulate something means to demand that it be part of an agreement. So when you make a contract or deal, you can stipulate that a certain condition must be met.",
+    "sentence": "The client clearly stipulated the conditions in the contract."
+  },
+  {
+    "word": "proscribe",
+    "meaning": "to prohibit or forbid",
+    "desc": "To proscribe something is to forbid or prohibit it, as a school principal might proscribe the use of cell phones in class.",
+    "sentence": "The student was audacious to eat lunch during ongoing lecture even though he was proscribed from doing it."
+  },
+  {
+    "word": "perspicacious",
+    "meaning": "wise, shrewd and intelligent",
+    "desc": "",
+    "sentence": "I'd learn a lot in this company being surrounded by these perspicacious people."
+  },
+  {
+    "word": "callow",
+    "meaning": "young and inexperienced, fledgling, unfledged",
+    "desc": "",
+    "sentence": "Given that you have just started playing this game, you are a callow player."
+  },
+  {
+    "word": "plodding",
+    "meaning": "laborious and monotonous work, donkeywork, requiring great effort",
+    "desc": "",
+    "sentence": "His every day's plodding is prime cause for his indolence."
+  },
+  {
+    "word": "inkling",
+    "meaning": "just a small part of it",
+    "desc": "",
+    "sentence": "I understood just an inkling in that professor's class."
+  },
+  {
+    "word": "indemnify",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "apologist",
+    "meaning": "the one who defends something unpopular",
+    "desc": "If you're an apologist for deep sea oil drilling, you would argue that drilling in the ocean is necessary and the benefits make up for any environmental damage.",
+    "sentence": "Being an apologist of death sentence, you can't expect mercy from him. "
+  },
+  {
+    "word": "dissolute",
+    "meaning": "unrestrained in morals, ",
+    "desc": "If you're a dissolute person, you engage in the kinds of behaviors that cause disapproval.",
+    "sentence": "Some students are so dissolute, that there is no point in talking sense to them."
+  },
+  {
+    "word": "pallid",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "impecunious",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "inimical",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "panned",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "rampage",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "consanguineous",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "beguiled",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "coltish",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "chary",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "progeny",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "fecund",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "imperious",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "heralded",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "unobtrusive",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "vestigial",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "sanguine",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "menacing",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "sagacious",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "verdant",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "garrulous",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "solicitous",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "endearing",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "enamored",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "motley",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "polemical",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "excoriation",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "obloquy",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "artifice",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "pulchritude",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "deplorable",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "inundate",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "canny",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "metastasize",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "berserk",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "parlous",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "sangfroid",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "vainglorious",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "entreaty",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "brook",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "statute",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "stopgap",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "modicum",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "perpetuity",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "consecration",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "paragon",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  },
+  {
+    "word": "solace",
+    "meaning": "",
+    "desc": "",
+    "sentence": " "
+  }
+]
